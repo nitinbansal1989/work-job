@@ -1,0 +1,14 @@
+{
+  "globalDependencies": {
+    "koa-compress": "registry:dt/koa-compress",
+    "marked": "registry:dt/marked",
+    "node": "registry:dt/node"
+  },
+  "dependencies": {
+    "koa": "registry:dt/koa",
+    "koa-bodyparser": "registry:dt/koa-bodyparser",
+    "koa-router": "registry:dt/koa-router",
+    "mysql": "registry:dt/mysql",
+    "redis": "registry:dt/redis"
+  }
+}

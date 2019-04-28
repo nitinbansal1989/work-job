@@ -1,0 +1,41 @@
+{
+  "name": "BindR",
+  "homepage": "",
+  "version": "3.3.7+1",
+  "authors": [
+    "BindR"
+  ],
+  "description": "A free, open source, Bootstrap admin theme created by Start Bootstrap",
+  "keywords": [
+    "bootstrap",
+    "theme"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "pages",
+    "index.html",
+    "/js"
+  ],
+  "main": [],
+  "dependencies": {
+    "bootstrap": "latest",
+    "bootstrap-social": "latest",
+    "chartjs": "latest",
+    "fastclick": "latest",
+    "font-awesome": "latest",
+    "jquery": "latest",
+    "jquery-easing-original": "latest",
+    "jquery.slimscroll": "latest",
+    "jquery.sparkline.bower": "latest",
+    "simple-line-icons": "latest",
+    "MDBootstrap": "latest",
+    "toastr": "latest",
+    "moment": "latest"
+  },
+  "notused deps": "flot,flot.tooltip, holderjs,ionicons, jvectormap, jvectormap-maps, metisMenu, morrisjs, react"
+}

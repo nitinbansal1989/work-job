@@ -1,0 +1,41 @@
+{
+  "name": "work-job",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "types": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "es-controller": "*",
+    "handlebars": "*",
+    "koa-bodyparser": "*",
+    "koa-compress": "*",
+    "koa-handlebars": "*",
+    "koa-helmet": "*",
+    "koa-morgan": "*",
+    "koa-redis": "*",
+    "koa-router": "*",
+    "koa-session": "*",
+    "koa-static": "*",
+    "marked": "*",
+    "moment": "*"
+  },
+  "devDependencies": {
+    "browser-sync": "*",
+    "es-cache": "*",
+    "es-entity": "*",
+    "gulp-clean-css": "*",
+    "gulp-less": "*",
+    "gulp-rename": "*",
+    "gulp-sass": "*",
+    "gulp-typescript": "*",
+    "gulp-uglify": "*",
+    "koa": "*",
+    "mysql": "*",
+    "stream-combiner2": "*"
+  }
+}
